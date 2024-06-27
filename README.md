@@ -1,4 +1,4 @@
-# Kyndryl Assignment
+# Automated an airline site
 <strong>By Arpita Jain</strong>
 <li><strong>Automated an Airline site</strong></li>
 <hr>
